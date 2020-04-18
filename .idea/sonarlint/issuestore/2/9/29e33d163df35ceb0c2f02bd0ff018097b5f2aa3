@@ -1,0 +1,28 @@
+
+j
+java:S22596"HA "NullPointerException" could be thrown; "connection" is nullable here.(©çÓ˜ùÿÿÿÿ8…¦üÕ˜.
+B
+java:S1181."%Catch Exception instead of Throwable.(áù«õ8…¦üÕ˜.
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(é×´É8ŞˆÔÕ˜.
+
+java:S1149#"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥št8…¦üÕ˜.
+E
+java:S11484"#Use a logger to log this exception.(›§·…úÿÿÿÿ8…¦üÕ˜.
+Q
+java:S2695"/This "PreparedStatement" only has 1 parameters.(í«ô›øÿÿÿÿ8Ñ®ÖÕ˜.
+G
+java:S11816"%Catch Exception instead of Throwable.(©çÓ˜ùÿÿÿÿ8…¦üÕ˜.
+e
+java:S22590"HA "NullPointerException" could be thrown; "connection" is nullable here.(İÌï8…¦üÕ˜.
+F
+java:S1172C")Remove this unused method parameter "id".(ê²…œ8…¦üÕ˜.
+E
+java:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…¦üÕ˜.
+d
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŞÌÑª8èû×Õ˜.
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸“óûúÿÿÿÿ8’š¾Õ˜.
+l
+java:S2095!"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï˜Ê“8™€éÕ˜.
+J	java:S1086")Either remove or fill this block of code.(©çÓ˜ùÿÿÿÿ8…¦üÕ˜.
