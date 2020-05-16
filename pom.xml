@@ -8,6 +8,7 @@
     <artifactId>ventas</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <name>CAST.Ventas</name>
     <dependencies>
         <dependency>
             <groupId>cast.testapp</groupId>
